@@ -9,5 +9,8 @@ h1{font-family: 'Anton', sans-serif;
 li{font-family: 'Permanent Marker', cursive;
     }
 p{font-family: 'Playfair Display SC', serif;
-
     }    
+ul{list-style:none;
+    }
+h1:hover{color:Blue;
+    }
